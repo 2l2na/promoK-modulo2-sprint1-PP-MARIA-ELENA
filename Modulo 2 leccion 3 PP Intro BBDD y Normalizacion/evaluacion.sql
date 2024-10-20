@@ -36,5 +36,3 @@ CONSTRAINT fk_id_asignatura__asignaturas
 	FOREIGN KEY (id_asignatura)
     REFERENCES asignaturas (id_asignatura)
 );
-
-
